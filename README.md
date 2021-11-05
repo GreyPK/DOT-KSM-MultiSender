@@ -11,4 +11,4 @@ Use at your own risk. I am not responsible for any mistakes, bugs, loss of funds
   a) Add mnemonic of your wallet in line 4
   b) Change recipients array in line 10
   c) Change sending amount to each recipient in line 16
-5. Run script with command "node multisender-dot.js" for DOT or "node multisender-ksm.js for KSM"
+5. Run script with command "node multisender-dot.js" for DOT or "node multisender-ksm.js" for KSM
